@@ -1,0 +1,9 @@
+## basic git command
+
+git init 
+git status
+git add
+git rm      Remove files from the working tree and from the index
+git restore
+git commit
+git log
